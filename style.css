@@ -1,0 +1,12 @@
+body {
+	margin: 0 20px;
+}
+
+h1 {
+	color: #FF0;
+	background-color: lightblue;
+}
+
+form {
+	padding: 10px;
+}
